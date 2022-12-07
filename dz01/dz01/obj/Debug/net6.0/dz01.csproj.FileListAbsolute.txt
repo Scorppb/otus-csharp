@@ -1,0 +1,15 @@
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\bin\Debug\net6.0\dz01.exe
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\bin\Debug\net6.0\dz01.deps.json
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\bin\Debug\net6.0\dz01.runtimeconfig.json
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\bin\Debug\net6.0\dz01.dll
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\bin\Debug\net6.0\dz01.pdb
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.csproj.AssemblyReference.cache
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.AssemblyInfoInputs.cache
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.AssemblyInfo.cs
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.csproj.CoreCompileInputs.cache
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.dll
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\refint\dz01.dll
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.pdb
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\dz01.genruntimeconfig.cache
+C:\Users\scorp-book\Documents\OTUS\C# Developer Basic\DZ01\dz01\dz01\obj\Debug\net6.0\ref\dz01.dll
